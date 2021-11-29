@@ -1,0 +1,25 @@
+{
+  "name": "websocket-nodejs",
+  "version": "1.0.0",
+  "description": "Este repositório contém alguns exemplos de client e server websocket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashmalcantara/websocket-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashmalcantara/websocket-nodejs/issues"
+  },
+  "homepage": "https://github.com/lucashmalcantara/websocket-nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
