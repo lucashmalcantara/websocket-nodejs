@@ -1,4 +1,4 @@
-# SIMPLE CHAT
+# CHAT SIMPLES COM WEBSOCKET
 
 Chat simples com objetivo de mostrar como o protocolo WSS (WebSockets over SSL/TLS) funciona.
 
@@ -17,9 +17,9 @@ yarn install
 node server.js
 ```
 
-Posteriormente acessar http://localhost:3000/ em dois clients diferentes para testar.
+Posteriormente acessar http://localhost:3000/ em dois _clients_ diferentes para testar.
 
-![Alt Text](funcionamento-websocket.gif)
+![Funcionamento Websocket](funcionamento-websocket.gif)
 
 # Referências
 
